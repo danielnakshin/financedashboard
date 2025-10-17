@@ -1,4 +1,5 @@
 
-<img width="640" height="480" alt="category_spend" src="https://github.com/user-attachments/assets/3847c634-3d94-4afe-8fdc-e97d0c4f21b7" />
-<img width="640" height="480" alt="cumulative_net" src="https://github.com/user-attachments/assets/9b1998a4-1786-4e6b-a0c6-3f5c0fa3bbbe" />[summary_report.md](https://github.com/user-attachments/files/22969285/summary_report.md)
-<img width="640" height="480" alt="monthly_trend" src="https://github.com/user-attachments/assets/0bb7bd46-2683-471e-8ac1-4eb238018bfa" />
+
+<img width="640" height="480" alt="cumulative_net" src="https://github.com/user-attachments/assets/e4435326-b16a-4de1-bc76-6a74860d0a9a" />
+<img width="640" height="480" alt="category_spend" src="https://github.com/user-attachments/assets/7e42013b-13b6-49e2-8f21-ddb6057def5e" />
+<img width="640" height="480" alt="monthly_trend" src="https://github.com/user-attachments/assets/92625485-241b-4e4a-8928-1388c3289991" />
