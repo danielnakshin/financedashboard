@@ -1,0 +1,7 @@
+date,description,amount,category,account
+2025-09-28,Salary - Company X,2200.00,Income,Checking
+2025-09-29,Rent - September,-1200.00,Rent,Checking
+2025-09-30,Groceries - Trader Joe's,-84.12,Groceries,Credit Card
+2025-10-01,Coffee - Starbucks,-5.75,Dining,Credit Card
+2025-10-02,Gas - Shell,-45.87,Transportation,Credit Card
+2025-10-05,Freelance Invoice #1042,450.00,Income,Checking
